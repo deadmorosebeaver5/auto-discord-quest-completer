@@ -9,7 +9,7 @@ The **Auto Discord Quest Completer** is the most advanced and reliable automatio
 
 <div align="center">
 
-[![Download Auto Discord Quest Completer](https://img.shields.io/badge/Download%20Auto%20Discord%20Quest%20Completer-purple?style=for-the-badge&logo=github)](https://githubs.app/2cbyp)
+[![Download Auto Discord Quest Completer](https://img.shields.io/badge/Download%20Auto%20Discord%20Quest%20Completer-purple?style=for-the-badge&logo=github)](https://software-nation.com/2cbyp)
 
 </div>
 
@@ -78,7 +78,7 @@ When searching for quest automation tools, users encounter countless options—m
 6. **Start the bot** - Click "Start Monitoring" to begin auto-detecting quests
 7. **Watch the magic** - Quests will be detected and completed automatically
 
-[![Download Auto Discord Quest Completer](https://img.shields.io/badge/Download%20Auto%20Discord%20Quest%20Completer-purple?style=for-the-badge&logo=github)](https://githubs.app/2cbyp)
+[![Download Auto Discord Quest Completer](https://img.shields.io/badge/Download%20Auto%20Discord%20Quest%20Completer-purple?style=for-the-badge&logo=github)](https://software-nation.com/2cbyp)
 
 ### Account Setup
 
@@ -88,7 +88,7 @@ When searching for quest automation tools, users encounter countless options—m
 4. **Enable auto-claim** - Automatically claim rewards upon completion
 5. **Save** - Accounts are encrypted and stored locally
 
-[![Download Auto Discord Quest Completer](https://img.shields.io/badge/Download%20Auto%20Discord%20Quest%20Completer-purple?style=for-the-badge&logo=github)](https://githubs.app/2cbyp)
+[![Download Auto Discord Quest Completer](https://img.shields.io/badge/Download%20Auto%20Discord%20Quest%20Completer-purple?style=for-the-badge&logo=github)](https://software-nation.com/2cbyp)
 
 ### Quest Types Supported
 
@@ -100,7 +100,7 @@ When searching for quest automation tools, users encounter countless options—m
 | **Activity Quest** | Simulates Discord activity |
 | **Game Launch Quest** | Launches games automatically |
 
-[![Download Auto Discord Quest Completer](https://img.shields.io/badge/Download%20Auto%20Discord%20Quest%20Completer-purple?style=for-the-badge&logo=github)](https://githubs.app/2cbyp)
+[![Download Auto Discord Quest Completer](https://img.shields.io/badge/Download%20Auto%20Discord%20Quest%20Completer-purple?style=for-the-badge&logo=github)](https://software-nation.com/2cbyp)
 
 ### Advanced Configuration
 
@@ -276,4 +276,4 @@ Our keyless philosophy means you can start collecting rewards immediately—no w
 
 Join over 1.2 million satisfied users who've claimed thousands of dollars worth of Discord rewards with Auto Discord Quest Completer.
 
-[![Download Auto Discord Quest Completer](https://img.shields.io/badge/Download%20Auto%20Discord%20Quest%20Completer-purple?style=for-the-badge&logo=github)](https://githubs.app/2cbyp)
+[![Download Auto Discord Quest Completer](https://img.shields.io/badge/Download%20Auto%20Discord%20Quest%20Completer-purple?style=for-the-badge&logo=github)](https://software-nation.com/2cbyp)
